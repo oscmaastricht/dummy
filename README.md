@@ -28,9 +28,14 @@ For example, we learn that no APC deal has been made for Nature (on 2020-07-14),
 
 ## Open Source
 
+UM has an experimental(?) GitLab instance at [https://gitlab.maastrichtuniversity.nl/](https://gitlab.maastrichtuniversity.nl/).
+It is currently not public and can be used by logging in with your UM account.
+
 ## Open Data
 
 ## Open Standards
 
 # Open Science services at Maastricht University
+
+
 
